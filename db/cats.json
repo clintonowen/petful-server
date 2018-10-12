@@ -1,0 +1,38 @@
+[
+  {
+    "imageURL":"https://i.imgur.com/tmQIDcB.jpg", 
+    "imageDescription": "White snowshoe cat with brown, annoyed face.",
+    "name": "Grumpy",
+    "sex": "Male",
+    "age": 11,
+    "breed": "Snowshoe",
+    "story": "Got tired of former owner."
+  },
+  {
+    "imageURL":"https://assets3.thrillist.com/v1/image/2622128/size/tmg-slideshow_l.jpg", 
+    "imageDescription": "Orange bengal cat with black stripes lounging on concrete.",
+    "name": "Fluffy",
+    "sex": "Female",
+    "age": 2,
+    "breed": "Bengal",
+    "story": "Thrown on the street"
+  },
+  {
+    "imageURL":"https://i.imgur.com/ifLCk2o.jpg", 
+    "imageDescription": "Tortoiseshell manx cat striking a pose.",
+    "name": "Pickles",
+    "sex": "Female",
+    "age": 3,
+    "breed": "Manx",
+    "story": "Found dumpster diving outside of a Subway"
+  },
+  {
+    "imageURL":"https://i.imgur.com/hwkTau7.jpg", 
+    "imageDescription": "Black bombay cat waking up from a nap.",
+    "name": "Finch",
+    "sex": "Male",
+    "age": 1,
+    "breed": "Bombay",
+    "story": "Rescued from a tree."
+  }
+]
